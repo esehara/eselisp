@@ -1,0 +1,6 @@
+[package]
+name = "eselisp"
+version = "0.1.0"
+authors = ["esehara shigeo <esehara@gmail.com>"]
+
+[dependencies]
